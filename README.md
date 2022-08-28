@@ -10,7 +10,7 @@ Implemented a PD controller for height control of the quadrotor and tuned the pr
 <img src="https://i.imgur.com/hUNL5Cy.gif" width="600">
 
 ## 2D Control of Quadcopter
-Implemented a PD controller to control the motion of the quadrotor in the Y-Z(2D) plane for following the desired path while minimizing position error.
+Implemented a PD controller to control the motion of the quadrotor in the Y-Z(2D) plane for following the desired path while minimising position error.
 
 ### Line Trajectory
 <img src="https://i.imgur.com/RBx20Oo.gif" width="600">
