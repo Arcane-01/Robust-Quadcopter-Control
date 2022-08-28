@@ -32,7 +32,7 @@ The aim is to design controller to track the given three dimensional trajectorie
 
 <img src="https://i.imgur.com/U2YcQ1g.gif" width="600">
 
-####                   Quadcopter velocity                                          Quadcopter position
+####                   Quadcopter velocity                                   Quadcopter position
 
 <img src="https://i.imgur.com/5pvjgz5.png" width="275"/> <img src="https://i.imgur.com/28oYnSH.jpg" width="275"/>
 
