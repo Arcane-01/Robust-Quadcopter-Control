@@ -1,5 +1,5 @@
 # Robust-Quadcopter-Control
-Code for the Coursera course on Aerial Robotics by University of Pennsylvania
+Code for the Coursera course on [Aerial Robotics](https://www.coursera.org/learn/robotics-flight) by University of Pennsylvania
 ## 1D control of Quadcopter
 Implemented a PD controller for height control of the quadrotor and tuned the proportional gain( $K_p$ ) & derivative gain( $K_d$ ) for two cases.
 ### Hover control at height $0 m$
