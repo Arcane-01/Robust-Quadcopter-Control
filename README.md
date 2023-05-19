@@ -34,7 +34,7 @@ The aim is to design controller to track the given three dimensional trajectorie
 
 ####                   Quadcopter velocity                                   Quadcopter position
 
-<img src="Results/3D Control of Quadcopter/Helix Trajectory/Quad_velocity.png" width="275"/> <img src="Results/3D Control of Quadcopter/Helix Trajectory/Quad_position.jpg" width="275"/>
+<img src="Results/3D Control of Quadcopter/Helix Trajectory/Quad_velocity.png" width="275"/> <img src="Results/3D Control of Quadcopter/Helix Trajectory/Quad_position.jpg" width="290"/>
 
 ### Minimum Snap Trajectory through given waypoints
 <img src="https://i.imgur.com/agvmTQC.gif" width="600">
