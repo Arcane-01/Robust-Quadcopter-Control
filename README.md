@@ -26,7 +26,7 @@ The aim is to design controller to track the given three dimensional trajectorie
 
 ####                   Quadcopter velocity                                          Quadcopter position
 
-<img src="https://i.imgur.com/giXTM5l.jpg" width="300"/> <img src="https://i.imgur.com/5B75MVU.jpg" width="300"/>
+<img src="Results/3D Control of Quadcopter/Line Trajectory/Quad Velocity.jpg" width="300"/> <img src="Results/3D Control of Quadcopter/Line Trajectory/Quad Position.jpg" width="300"/>
 
 ### Helix Trajectory
 
@@ -34,11 +34,11 @@ The aim is to design controller to track the given three dimensional trajectorie
 
 ####                   Quadcopter velocity                                   Quadcopter position
 
-<img src="https://i.imgur.com/5pvjgz5.png" width="275"/> <img src="https://i.imgur.com/28oYnSH.jpg" width="275"/>
+<img src="Results/3D Control of Quadcopter/Helix Trajectory/Quad_velocity.png" width="275"/> <img src="Results/3D Control of Quadcopter/Helix Trajectory/Quad_position.jpg" width="275"/>
 
 ### Minimum Snap Trajectory through given waypoints
 <img src="https://i.imgur.com/agvmTQC.gif" width="600">
 
 ####                   Quadcopter velocity                                          Quadcopter position
 
-<img src="https://i.imgur.com/m5QtAeB.jpg" width="300"/> <img src="https://i.imgur.com/426y7HL.jpg" width="300"/>
+<img src="Results/3D Control of Quadcopter/Minimum Snap Trajectory through given waypoints/Quad Velocity.jpg" width="300"/> <img src="Results/3D Control of Quadcopter/Minimum Snap Trajectory through given waypoints/Quad Position.jpg" width="300"/>
