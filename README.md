@@ -2,11 +2,11 @@
 Code for the Coursera course on [Aerial Robotics](https://www.coursera.org/learn/robotics-flight) by University of Pennsylvania
 ## 1D control of Quadcopter
 Implemented a PD controller for height control of the quadrotor and tuned the proportional gain( $K_p$ ) & derivative gain( $K_d$ ) for two cases.
-### Hover control at height $0 m$
+### Hover control at height 0 $`m`$
 <img src="https://i.imgur.com/sjb3Hax.gif" width="600">
 
 
-### Hover control at height $1 m$
+### Hover control at height 1 $`m`$
 <img src="https://i.imgur.com/hUNL5Cy.gif" width="600">
 
 ## 2D Control of Quadcopter
